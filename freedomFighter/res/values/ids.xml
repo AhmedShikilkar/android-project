@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="scroll">false</item>
+    <item type="id" name="adView">false</item>
+    <item type="id" name="gandhiji">false</item>
+    <item type="id" name="Sardar">false</item>
+    <item type="id" name="bhagat">false</item>
+    <item type="id" name="lalbahadur">false</item>
+    <item type="id" name="nehru">false</item>
+    <item type="id" name="subhas">false</item>
+    <item type="id" name="web">false</item>
+    <item type="id" name="action_settings">false</item>
+</resources>
